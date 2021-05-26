@@ -11,7 +11,7 @@ Create User:
 Route: /user
 
 User {
-	"name": "Bruno", 
-	"email": "bruno123@gmail.com",
+	"name": "fulado", 
+	"email": "fulado@gmail.com",
 	"password": "12345"
 }
